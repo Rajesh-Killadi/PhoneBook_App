@@ -32,7 +32,7 @@
                     </div>
                 </div>
                 <div class="text-center mt-3">
-                    <p>Don't have an account? <a href="register.jsp">Sign up</a></p>
+                    <p>Don't have an account? <a href="register.jsp">Sign up here </a></p>
                 </div>
             </div>
         </div>
